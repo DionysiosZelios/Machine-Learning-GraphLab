@@ -1,2 +1,3 @@
 # Machine-Learning
-Machine Learning Algorithms
+
+Machine Learning Algorithms using Jupyter Notebook
