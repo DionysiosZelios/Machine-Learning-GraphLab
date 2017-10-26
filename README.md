@@ -6,4 +6,5 @@ Various Machine Learning Algorithms using Jupyter Notebook, including:
 * Deep features for image retrieval
 * Document retrieval
 * Predicting house prices
+* Random Forest Classifier
 * Song recommender
