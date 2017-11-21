@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning using GraphLab
 
 Various Machine Learning Algorithms using Jupyter Notebook, including:
 * Analyzing product sentiment
